@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+body{padding: 10px; }
+
+.panel-body .r{ float: right; width: 200px; text-align: center;}
+.panel-body .l{ margin: 0 200px 0 0; }
+.btn-upload{margin-top: -5px;}
+
+.col-right{text-align: right;}
+.col-center{text-align: center;}
